@@ -1,6 +1,6 @@
 # MarvelRivals DMA
 
-A **simple, high performance Marvel Rivals DMA cheat** utilizing **Dear ImGUI** for the overlay/menu and **DMALibrary** for memory reading. It communicates with a **Kmbox NET/BPro** for aimbot. This project demonstrates how **scatter reads and caching** can significantly boost speed when using DMA.
+A **simple, high performance Marvel Rivals DMA cheat** utilizing **Dear ImGUI** for the overlay/menu and **DMALibrary** for memory reading. It communicates with a **Kmbox NET/BPro/MAKCU** for aimbot. This project demonstrates how **scatter reads and caching** can significantly boost speed when using DMA.
 
 > ⚠ **Disclaimer:** This project is for **educational purposes only**. It cannot be used out of the box, as all offsets have been stripped. Do not use this to cheat.
 
